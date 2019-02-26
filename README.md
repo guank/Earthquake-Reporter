@@ -1,1 +1,1 @@
-# Quake-Reporter
+# Earthquake-Reporter
